@@ -1,6 +1,6 @@
 ### hey! 您好
 
-### I am a computer science student, I like C and Ocaml.<br/>I'd like to find a project I can pour my heart and soul in,<br/>If you need a collaborator,
+### I am a computer science student, I like C and Ocaml.<br/>I'd like to find a project I can pour my heart and soul in,<br/>If you need a collaborator:
 ### 📫 contact me @: leclerc.mael@pm.me
 
 <!--
