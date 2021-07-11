@@ -1,6 +1,9 @@
-### Hi there 👋
+### hey! 您好
 
-### 📫 How to reach me: leclerc.mael@pm.me
+### I am a computer science student, I like C and Ocaml.
+### I'd like to find a project I can pour my heart and soul in,
+### If you need a collaborator,
+### 📫 contact me @: leclerc.mael@pm.me
 
 <!--
 **sudosmile/sudosmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
