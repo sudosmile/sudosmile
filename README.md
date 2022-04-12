@@ -11,3 +11,4 @@ my workflow setup:
   - zsh + starship prompt
   - zellij multiplexer
   - neovim + helix for code editing 
+  - obsidian for notes
