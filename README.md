@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to Rust**
 
-- 👨‍💻 All of my projects are available at [sudosmile.me](sudosmile.me)
+- 👨‍💻 All of my personnal projects are available here
 
 - 📫 How to reach me **ashe.sudosmile@gmail.com**
 
